@@ -1,0 +1,12 @@
+READ ME
+Projeto 3 da disciplina Teoria e Aplicação de Grafos
+Universidade de Brasilia
+Departamento de Ciencia da Computacao
+Professor: Díbio Leandro Borges
+Aluna: Thaís Fernanda de Castro Garcia
+Matricula: 200043722
+
+
+Para a elaboração do projeto foi feita  uma classe que preenche de forma completa um jogo de Sudoku, usando força bruta, e depois o esvazia, deixando apenas 17 posições, para que ele seja usado como um novo jogo, o qual é certamente valido, e possa ser solucionado utilizando o algoritmo recursivo de coloração em grafos.
+
+O programa não lê entradas pois gera um novo jogo cada vez que é executado, as saídas contem tanto algumas das saídas itermediarias do algoritmo de coloração quanto a solução final.
